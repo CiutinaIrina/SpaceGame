@@ -1,0 +1,18 @@
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\bin\Debug\net6.0-windows\Space Game.exe
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\bin\Debug\net6.0-windows\Space Game.deps.json
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\bin\Debug\net6.0-windows\Space Game.runtimeconfig.json
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\bin\Debug\net6.0-windows\Space Game.dll
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\bin\Debug\net6.0-windows\Space Game.pdb
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.csproj.AssemblyReference.cache
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space_Game.Form1.resources
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space_Game.Properties.Resources.resources
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.csproj.GenerateResource.cache
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.AssemblyInfo.cs
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.dll
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\refint\Space Game.dll
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.pdb
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\Space Game.genruntimeconfig.cache
+C:\Users\ALIENWARE\source\repos\Space Game\Space Game\obj\Debug\net6.0-windows\ref\Space Game.dll
